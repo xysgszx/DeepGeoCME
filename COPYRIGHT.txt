@@ -1,0 +1,5 @@
+Copyright (c) 2026 Zhaoxin Yan.
+
+This notice applies to the original software and documentation in this package.
+Third-party libraries, models, and other third-party materials retain their
+respective copyright notices and licenses.
