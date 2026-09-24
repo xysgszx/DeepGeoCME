@@ -6,7 +6,7 @@ Zhaoxin Yan, Yasser Abduallah, Jason T. L. Wang
 
 ## Overview
 
-A deep learning fusion model for predicting CME geoeffectiveness from SOHO and SDO observations. This repository provides training and testing code, with pretrained weights and prediction examples available in the accompanying Zenodo package.
+A deep learning fusion model for predicting CME geoeffectiveness from SOHO and SDO observations. This repository provides training and testing code, with pretrained weights and prediction examples available on [Zenodo](https://zenodo.org/records/22942117).
 
 ## File Structure
 
