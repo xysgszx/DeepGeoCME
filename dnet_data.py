@@ -78,3 +78,4 @@ class CMEDataset(Dataset):
                 raise ValueError(f'{ev}/{m}: non-finite input values.')
             out[m] = t
         return out, torch.tensor(y, dtype=torch.float32)
+

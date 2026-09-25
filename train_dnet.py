@@ -200,7 +200,7 @@ class FusionModel(nn.Module):
 
 # ----------------------------- Metrics --------------------------------------
 
-from demo.metrics import compute_metrics
+from metrics import compute_metrics
 
 
 def grid_thr(y, p):
@@ -411,3 +411,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
