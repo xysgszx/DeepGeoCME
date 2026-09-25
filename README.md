@@ -24,7 +24,7 @@ Open the notebook and select **Runtime → Run all** to reproduce the prediction
 
 ## Model and Data
 
-Download the [pretrained weights](https://github.com/xysgszx/DeepGeoCME/releases/download/v1.0/dnet_best.pt) and [testing data](https://github.com/xysgszx/DeepGeoCME/releases/download/v1.0/test_tensors.zip) into `assets/`. The notebook downloads these files automatically.
+Download the [pretrained weights](https://github.com/xysgszx/DeepGeoCME/releases/download/v1.0/dnet_best.pt) and [testing data](https://github.com/xysgszx/DeepGeoCME/releases/download/v1.0/test_tensors.zip) into `assets/`. The notebook downloads these files automatically.The complete package and prediction workflow are available on [Zenodo](https://zenodo.org/records/22955090).
 
 ## Installation and Testing
 
